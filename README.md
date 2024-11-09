@@ -101,7 +101,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-```
+
 ### styles.css
 ```
 /* General Styling */
